@@ -13,4 +13,3 @@ test "punto1: Planteo inicial" {
   assert.equals(268000, gimenez.fondo())
   
 }
-
